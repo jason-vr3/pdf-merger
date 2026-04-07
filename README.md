@@ -15,3 +15,7 @@ PDF 高效合并工具 (PDF Merger)：轻量级、无广告、纯本地运行的
 1. 前往右侧的 **[Releases](#)** 页面（发布页）。
 2. 下载最新版本的 `pdf_merger.exe` 文件。
 3. 双击直接运行即可。
+
+
+Bty：本项目使用 Python + PyQt5 进行界面开发，并使用 pypdf 库来处理PDF的合并。
+PyQt5 在 Windows 下有着极佳的原生体验，且支持非常方便的列表拖拽排序
